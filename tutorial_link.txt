@@ -1,3 +1,7 @@
 https://go.dev/doc/modules/release-workflow
 
 https://go.dev/doc/tutorial/workspaces
+
+
+git tag greetings/v1.0.0
+git push origin main --tags
