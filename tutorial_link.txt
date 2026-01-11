@@ -1,1 +1,3 @@
+https://go.dev/doc/modules/release-workflow
+
 https://go.dev/doc/tutorial/workspaces
